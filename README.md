@@ -35,12 +35,19 @@ The dashboards highlight:
 - **Calculate Average GPA** ➗: Utilized the AVERAGE function to find the overall average GPA.
 - **Create a Pivot Table** 🏢: Generated a pivot table to display the average GPA for each department, helping to identify departments with strong or weak performance.
 
+<img src="https://github.com/user-attachments/assets/d117de18-072e-455d-b92b-8e6d3b16a129" alt="Dataset Screenshot" width="500px" height="400px">
+<img src="https://github.com/user-attachments/assets/190d39f7-1ac4-422e-b6a0-d5a8b1a52c14" alt="Pivot Table" width="500px" height="400px">
+
 ### Tableau Tasks:
 - **Student Enrollment Trends** 📅: Created visuals to track changes in student enrollment over time, identifying peaks and declines.
 - **GPA by Department** 🎓: Designed charts to illustrate GPA distribution across various departments, highlighting performance trends.
 
+<img src="https://github.com/user-attachments/assets/dfd03cdc-368a-4b8f-8bdc-6a6d0624f844" alt="Dashboard 1 (6)" width="1000px" height="400px">
+
 ### Power BI Tasks:
 - **GPA Distribution** 📏: Built an interactive report to display GPA distribution using visualizations like bar charts and area charts, coupled with filters to allow detailed exploration.
+
+<img src="https://github.com/user-attachments/assets/19dbf385-afee-4cbd-95bd-3ea7b0410008" alt="Power BI screenshot" width="1000px" height="400px">
 
 ---
 
@@ -56,7 +63,8 @@ The dashboards highlight:
 ---
 
 ## 😅 Reflections
-This project enhanced my ability to work with real-world data and create engaging visual narratives. Using **Excel** for meticulous preparation and **Tableau** and **Power BI** for dynamic storytelling, I developed dashboards that simplify complex datasets into actionable insights. 🚀
+This project enhanced my ability to work with real-world data and create engaging visual narratives. Using **Excel** for meticulous preparation and **Tableau** and **Power BI** for dynamic storytelling, I developed dashboards that simplify complex datasets into actionable insights.
+Pivot tables use the whole dataset not just the filtered out versions so its important for next time! 🚀
 
 ---
 
