@@ -52,7 +52,8 @@ The dashboard highlights:
 ## 🚀 How to Explore
 
 1. 🔗 **[Access the Tableau Dashboard](https://public.tableau.com/app/profile/shahed.ali2592/viz/StudentDatabaseProject-ExcelTableau/Dashboard1)**.  
-2. Use filters to:
+2. 🔗 **[Explore the Power BI Dashboard](https://app.powerbi.com/groups/me/reports/253f04ae-a7a6-47c5-a800-7ed3cafe8bee/7a1a7a2dade0e1d41d6d?experience=power-bi)**.  
+3. Use filters to:
    - Drill down by demographic categories.
    - Explore subject-specific performance trends.
    - Analyse data over specific time periods.  
@@ -66,8 +67,9 @@ This project enhanced my ability to work with real-world data and create engagin
 
 ## 📑 Repository Files
 - **Dashboard Link**: Interactive Tableau dashboard.
+- **Power BI Link**: Interactive Power BI dashboard.
 - **Dataset**: Anonymised student data.  
 
 ---
 
-🌐 **Discover student trends and insights by exploring the dashboard today!**
+🌐 **Discover student trends and insights by exploring the dashboards today!**
