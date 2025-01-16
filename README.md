@@ -35,8 +35,8 @@ The dashboards highlight:
 - **Calculate Average GPA** ➗: Utilized the AVERAGE function to find the overall average GPA.
 - **Create a Pivot Table** 🏢: Generated a pivot table to display the average GPA for each department, helping to identify departments with strong or weak performance.
 
-<img src="https://github.com/user-attachments/assets/d117de18-072e-455d-b92b-8e6d3b16a129" alt="Dataset Screenshot" width="500px" height="400px">
-<img src="https://github.com/user-attachments/assets/190d39f7-1ac4-422e-b6a0-d5a8b1a52c14" alt="Pivot Table" width="500px" height="400px">
+<img src="https://github.com/user-attachments/assets/594eebbb-0c95-405e-bbdd-9a47e027e97f" alt="Dataset Screenshot" width="600px" height="500px">
+<img src="https://github.com/user-attachments/assets/190d39f7-1ac4-422e-b6a0-d5a8b1a52c14" alt="Pivot Table" width="400px" height="400px">
 
 ### Tableau Tasks:
 - **Student Enrollment Trends** 📅: Created visuals to track changes in student enrollment over time, identifying peaks and declines.
