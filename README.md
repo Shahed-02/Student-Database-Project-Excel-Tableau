@@ -64,7 +64,8 @@ The dashboard highlights:
 ---
 
 ## 😅 Reflections
-This project enhanced my ability to work with real-world data and create engaging visual narratives. Using **Excel** for meticulous preparation and **Tableau** for dynamic storytelling, I developed a dashboard that simplifies complex datasets into actionable insights. 🚀
+This project enhanced my ability to work with real-world data and create engaging visual narratives. Using **Excel** for meticulous preparation  **Tableau**  & **Power BI** for dynamic storytelling, I developed a dashboard that simplifies complex datasets into actionable insights. 🚀
+It made me understand Pivot Tables more. That using filters wont exclude incomplete data in a Pivot Table!
 
 ---
 
