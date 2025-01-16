@@ -37,7 +37,8 @@ The dashboard highlights:
 2. **Demographic Insights**: Pie charts highlighting gender, age groups, and regional representation.  
 3. **Trend Analysis**: Line charts illustrating changes in performance metrics over time.
 
-![Dashboard Preview](https://public.tableau.com/screenshot-link-placeholder)
+
+![Dashboard 1 (6)](https://github.com/user-attachments/assets/ea86a479-7326-4f77-a12c-fef89cbd6931)
 
 ---
 
@@ -45,7 +46,9 @@ The dashboard highlights:
 
 1. **Top Performers**: Students from certain regions consistently outperform others. 🏆  
 2. **Demographic Trends**: Gender distribution shows a near-equal split, with slight variations in subject preferences. 👩🏾‍🎓👨🏽‍🎓  
-3. **Year-over-Year Analysis**: Performance trends highlight specific areas for potential academic improvement. 📈  
+3. **Year-over-Year Analysis**: Performance trends highlight specific areas for potential academic improvement. 📈
+
+
 
 ---
 
