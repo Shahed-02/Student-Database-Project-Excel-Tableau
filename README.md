@@ -1,4 +1,4 @@
-# 🌐 Student Database Project: Excel & Tableau
+# 🌐 Student Database Project: Excel , Tableau & Power BI
 
 ## 🔍 Project Overview  
 This project explores student data to uncover insights about academic performance, demographics, and trends. Leveraging **Excel** for data cleaning and preparation and **Tableau** for data visualization, I created an interactive dashboard to present key findings in a user-friendly format. 📊✨
